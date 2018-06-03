@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Austin Trash Day # REQUIRED - Enter your app name
+  ios_id: # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: tech.schober.trashday.austin # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: # Optional
+marketing_desc: View your personalized schedule and get reminders for residential curbside collection services for addresses in Austin, Texas including trash, recycling, compost, yard trimming, and bulk item collection.
 
 #
 # Social Links
