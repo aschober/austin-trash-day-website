@@ -58,3 +58,18 @@
   left: 23px;
   width: 246px;
 }
+
+//
+// Pixel 2
+//
+
+.device.pixel-2 {
+  width: 290px;
+  height: 604px;
+  background-image: url(../../images/devices/pixel-2.png);
+}
+.device.pixel-2 .app-screenshot {
+  top: 68px;
+  left: 12px;
+  width: 260px;
+}
